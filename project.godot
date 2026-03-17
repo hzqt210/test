@@ -1,0 +1,7 @@
+[project]
+name="YourProjectName"
+copyright="YourCopyright"
+version="0.1"
+
+[rendering]
+use_vulkan=false
